@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Location Based Streaming</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="main_message">Welcome, this app will report your location every 5 minutes while it is running.  It will update the map and offer individuals the ability to request a live stream. To quit this app and the location reporting click the &quot;Stop&quot; button below.</string>
+
+</resources>
